@@ -606,13 +606,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 911604781}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0ed5db823d40e24eb6ef6a47eefb602, type: 3}
+  m_Script: {fileID: 11500000, guid: eb549b12e9460544d9273c46e5716de9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bomb: {fileID: 8740045406302100319, guid: 709bde94703cf394bae1937ff4c3be06, type: 3}
-  speed: 2
-  jumpforce: 5
-  groundCheck: {fileID: 1892193651}
+  bomb: {fileID: 0}
+  speed: 0
+  jumpforce: 0
+  groundCheck: {fileID: 0}
 --- !u!114 &911604787
 MonoBehaviour:
   m_ObjectHideFlags: 0
